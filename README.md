@@ -1,5 +1,5 @@
-### Hi there :muscle:
-Sou ó Kaio Gabriel, um jovem programador Front End apaixonado por tecnologia, atualmente estou estudando pra me torna Full Stack desenvolvendo projetos com:
+### Oii! :muscle:
+Sou Kaio Gabriel, um jovem programador Front End apaixonado por tecnologia, atualmente estou estudando pra me torna Full Stack desenvolvendo projetos com:
 <br>
 <br>
 - <img width="70px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html"/>
