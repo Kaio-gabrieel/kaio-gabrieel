@@ -7,7 +7,7 @@ Sou Kaio Gabriel, um jovem programador Front End apaixonado por tecnologia, atua
 - <img width="100px" height="22px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="logo-java"/>
 
 <br>
-<p> Linguagens em aprendizado : 
+<p> Tecnologias em aprendizado : 
   <br>
   <br>
  <img width="100px" height="25px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react" />
