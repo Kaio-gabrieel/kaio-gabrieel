@@ -11,6 +11,7 @@ Sou Kaio Gabriel, um jovem programador Front End apaixonado por tecnologia, atua
   <br>
   <br>
  <img width="100px" height="25px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react" />
+ <img width="100px" height="25px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 
 
   - :mag_right: Maneira de me encontrar:[@kaiio_gabriel113](https://www.instagram.com/kaiio_gabriel113/?next=%2F)
